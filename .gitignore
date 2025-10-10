@@ -52,3 +52,6 @@ rsconnect/
 renv/library/
 renv/staging/
 renv/cache/
+
+Data/**
+Sandbox/**
